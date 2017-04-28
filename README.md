@@ -42,7 +42,7 @@ mandatory fields) can be saved.
 No real persistence is needed.
 
 ### Task 3 (optional)
-Implement a parent-child relation for two contacts and ensure on save time that the related contact exists.
+Implement a parent-child relation for contacts. When saving a contact A with a related contact B, ensure that B already exists.
 
 
 ## Background
